@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "方正简体";
+    src: url('./FZZBHK.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "方正兰亭细黑";
+    src: url('./FZLTXH.ttf');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    box-sizing: border-box;
+}
+
+#app{
+    --musicThemeColor: #2ca2f9;
+}
+
+* {
+    /*font-family: 方正兰亭细黑;*/
+}
+
+li{
+    list-style: none;
+}
